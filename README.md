@@ -37,8 +37,8 @@ Ideal para mestres e jogadores que querem automatizar suas jogadas com praticida
 
 ### 📫 Contato
 
-- 📧 **robson.silva@email.com** *(troque para seu e-mail real)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/seu-perfil) *(troque pelo link real quando quiser)*
+- 📧 **r3122120@gmail.com** 
+- 💼 [LinkedIn](https://www.linkedin.com/in/robson-monteiro-61b898328/) 
 
 ---
 
