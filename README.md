@@ -26,6 +26,15 @@
 
 ---
 
+### 🚀 Projeto em destaque
+
+#### 🎲 [Dungeons and Dados](https://github.com/Robson002886/Dungeons-and-dados)
+
+Um sistema de rolagem de dados inspirado em RPGs de mesa, feito em Python.  
+Ideal para mestres e jogadores que querem automatizar suas jogadas com praticidade e leveza no terminal.
+
+---
+
 ### 📫 Contato
 
 - 📧 **robson.silva@email.com** *(troque para seu e-mail real)*
@@ -33,22 +42,8 @@
 
 ---
 
-### 🚀 Projetos em destaque
-
-📌 Repositórios em breve!
-
----
-
 <p align="center">Obrigado por visitar meu perfil! 😊</p>
 
-
-<!--
-**Robson002886/Robson002886** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
